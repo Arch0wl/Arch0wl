@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ann. Welcome to my page.</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width: 400 src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width: 500 src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arch0wl&label=Profile%20views&color=0e75b6&style=flat" alt="arch0wl" /> </p>
 
